@@ -1,0 +1,1 @@
+C:\AppDev\PharmacyCameraApp\MediSeen\MediSeen.csproj;x64
