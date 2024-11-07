@@ -1,5 +1,7 @@
 ﻿using MediSeen.MVVM.Views.Android;
 using MediSeen.MVVM.Views.Windows;
+using MediSeen.IViews;
+using MediSeen.Services;
 
 namespace MediSeen
 {
@@ -9,11 +11,8 @@ namespace MediSeen
         {
             InitializeComponent();
 
-#if ANDROID || IOS
-            MainPage = new NavigationPage(new AndroidMainPage());
-#else
-    MainPage = new NavigationPage(new WindowsMainPage());
-#endif
+            MainPage = new NavigationPage(ViewServices.ResolvePage<IMainPage>());
+
         }
     }
 }

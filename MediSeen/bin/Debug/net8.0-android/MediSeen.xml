@@ -4,5 +4,14 @@
         <name>MediSeen</name>
     </assembly>
     <members>
+        <member name="T:MediSeen.MVVM.ViewModels.MainPageViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:MediSeen.MVVM.ViewModels.MainPageViewModel.navigateToSecondPageCommand">
+            <summary>The backing field for <see cref="P:MediSeen.MVVM.ViewModels.MainPageViewModel.NavigateToSecondPageCommand"/>.</summary>
+        </member>
+        <member name="P:MediSeen.MVVM.ViewModels.MainPageViewModel.NavigateToSecondPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:MediSeen.MVVM.ViewModels.MainPageViewModel.NavigateToSecondPage"/>.</summary>
+        </member>
     </members>
 </doc>

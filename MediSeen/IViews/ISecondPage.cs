@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MediSeen.IViews
 {
-    class ISecondPage
+    public interface ISecondPage
     {
     }
 }

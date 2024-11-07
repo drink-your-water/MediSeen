@@ -1,25 +1,31 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using MediSeen.IViews;
+using MediSeen.Services;
+using MediSeen.MVVM.Views.Android;
+using MediSeen.MVVM.Views.Windows;
 
-namespace MediSeen
+namespace MediSeen;
+public static class MauiProgram
 {
-    public static class MauiProgram
+    public static MauiApp CreateMauiApp()
     {
-        public static MauiApp CreateMauiApp()
-        {
-            var builder = MauiApp.CreateBuilder();
-            builder
-                .UseMauiApp<App>()
-                .ConfigureFonts(fonts =>
-                {
-                    fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-                    fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-                });
+        var builder = MauiApp.CreateBuilder();
+        builder
+            .UseMauiApp<App>()
+            .ConfigureFonts(fonts =>
+            {
+                fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
+                fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+            })
+            .UseViewServices();
 
-#if DEBUG
-    		builder.Logging.AddDebug();
+#if ANDROID || IOS
+        builder.Services.AddSingleton<IMainPage, AndroidMainPage>();
+        builder.Services.AddTransient<ISecondPage, CameraPage>();
+        builder.Services.AddTransient<IThirdPage, SearchPage>();
+#else
+        builder.Services.AddSingleton<IMainPage, WindowsMainPage>();
 #endif
 
-            return builder.Build();
-        }
+        return builder.Build();
     }
 }
