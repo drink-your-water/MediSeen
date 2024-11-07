@@ -53,6 +53,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = MediSeen.MVVM.Views.Androi
 build_metadata.AdditionalFiles.TargetPath = MVVM\Views\Android\SearchPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Android\SearchPage.xaml
 
+[C:/AppDev/PharmacyCameraApp/MediSeen/MVVM/Views/Windows/AvailabilityPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MediSeen.MVVM.Views.Windows.AvailabilityPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\Windows\AvailabilityPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Windows\AvailabilityPage.xaml
+
+[C:/AppDev/PharmacyCameraApp/MediSeen/MVVM/Views/Windows/InventoryPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MediSeen.MVVM.Views.Windows.InventoryPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\Windows\InventoryPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\Windows\InventoryPage.xaml
+
 [C:/AppDev/PharmacyCameraApp/MediSeen/MVVM/Views/Windows/WindowsMainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MediSeen.MVVM.Views.Windows.WindowsMainPage.xaml

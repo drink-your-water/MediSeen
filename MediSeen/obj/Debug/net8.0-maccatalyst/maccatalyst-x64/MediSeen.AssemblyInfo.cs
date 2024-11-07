@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediSeen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3e68372a8770cbecb6097d5624ff37f57c2e4f89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bce96af343c7fb07d8d48a0850410f41e2465f9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediSeen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediSeen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

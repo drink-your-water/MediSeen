@@ -24,6 +24,8 @@ public static class MauiProgram
         builder.Services.AddTransient<IThirdPage, SearchPage>();
 #else
         builder.Services.AddSingleton<IMainPage, WindowsMainPage>();
+        builder.Services.AddTransient<ISecondPage, InventoryPage>();
+        builder.Services.AddTransient<IThirdPage, AvailabilityPage>();
 #endif
 
         return builder.Build();

@@ -29,261 +29,261 @@
     <AppXManifest Include="C:\AppDev\PharmacyCameraApp\MediSeen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-11-06T16:49:11.065</Modified>
+      <Modified>2024-11-07T13:33:31.169</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-11-06T16:49:10.843</Modified>
+      <Modified>2024-11-07T13:25:20.452</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MediSeen.runtimeconfig.json">
       <PackagePath>MediSeen.runtimeconfig.json</PackagePath>
-      <Modified>2024-11-06T16:49:10.740</Modified>
+      <Modified>2024-11-07T12:51:01.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MediSeen.dll">
       <PackagePath>MediSeen.dll</PackagePath>
-      <Modified>2024-11-06T16:49:10.072</Modified>
+      <Modified>2024-11-07T13:33:30.178</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MediSeen.exe</PackagePath>
-      <Modified>2024-11-06T16:49:10.117</Modified>
+      <Modified>2024-11-07T13:33:30.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-11-06T15:02:51.018</Modified>
+      <Modified>2024-11-06T23:22:03.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:09.022</Modified>
+      <Modified>2024-11-06T23:22:08.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:09.037</Modified>
+      <Modified>2024-11-06T23:22:08.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:09.060</Modified>
+      <Modified>2024-11-06T23:22:08.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:09.095</Modified>
+      <Modified>2024-11-06T23:22:08.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:09.220</Modified>
+      <Modified>2024-11-06T23:22:08.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-11-06T15:02:51.010</Modified>
+      <Modified>2024-11-06T23:22:08.584</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-11-06T15:02:51.012</Modified>
+      <Modified>2024-11-06T23:22:08.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.587</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.726</Modified>
+      <Modified>2024-11-06T23:22:08.589</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.590</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.591</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.594</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.595</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.730</Modified>
+      <Modified>2024-11-06T23:22:08.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.600</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.601</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.728</Modified>
+      <Modified>2024-11-06T23:22:08.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.729</Modified>
+      <Modified>2024-11-06T23:22:08.604</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.606</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.727</Modified>
+      <Modified>2024-11-06T23:22:08.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.732</Modified>
+      <Modified>2024-11-06T23:22:08.607</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.732</Modified>
+      <Modified>2024-11-06T23:22:08.608</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.732</Modified>
+      <Modified>2024-11-06T23:22:08.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-11-06T15:03:10.731</Modified>
+      <Modified>2024-11-06T23:22:08.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -623,7 +623,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\AppDev\PharmacyCameraApp\MediSeen\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MediSeen.deps.json">
       <PackagePath>MediSeen.deps.json</PackagePath>
-      <Modified>2024-11-06T16:49:10.947</Modified>
+      <Modified>2024-11-07T13:25:20.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Administrator\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
       <PackagePath>Humanizer.dll</PackagePath>

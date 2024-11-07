@@ -11,5 +11,10 @@
         <Button
             Text="Camera"
             Command="{Binding NavigateToSecondPageCommand}"/>
+        <Button
+            Text="Search"
+            Command="{Binding NavigateToThirdPageCommand}"/>
+        <Button
+            Text="Live location On"/>
     </VerticalStackLayout>
 </ContentPage>
